@@ -2,6 +2,21 @@
   max-width:1300px;
   margin: 0 auto;
 }
+.text_prefooter{
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  font-size: 23px;
+  padding-top: 20px;
+}
+.text_prefooter2{
+  color: #000;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
 .tittle_wrapper{
   background-image: url(https://cdn.pixabay.com/photo/2018/01/12/14/34/background-3078335_960_720.jpg);
   background-position: center;
